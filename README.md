@@ -45,7 +45,3 @@ Each CSV contains a `user_id` column and the corresponding timestamp column (`vi
     - Drop-off percentages at each step
     - Weakest step in the funnel
     - Average time from visit to purchase
-
-## Author
-
-Graziella Morais  
