@@ -1,4 +1,4 @@
-# E-Commerce Funnel Analysis
+# E-Commerce Funnel Analysis (Codecademy Project)
 
 This repository contains a Python script for analyzing an e-commerce user funnel, from website visits to purchase. The analysis calculates drop-off rates at each stage, identifies the weakest step, and computes the average time from visit to purchase.
 
